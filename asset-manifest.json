@@ -1,11 +1,11 @@
 {
-  "main.js": "/albums/static/js/main.0f638c5d.chunk.js",
-  "main.js.map": "/albums/static/js/main.0f638c5d.chunk.js.map",
-  "runtime~main.js": "/albums/static/js/runtime~main.1af2c6e7.js",
-  "runtime~main.js.map": "/albums/static/js/runtime~main.1af2c6e7.js.map",
-  "static/js/2.df8d37e2.chunk.js": "/albums/static/js/2.df8d37e2.chunk.js",
-  "static/js/2.df8d37e2.chunk.js.map": "/albums/static/js/2.df8d37e2.chunk.js.map",
-  "index.html": "/albums/index.html",
-  "precache-manifest.d9d89f8e1663780bd4aa58085e9e3363.js": "/albums/precache-manifest.d9d89f8e1663780bd4aa58085e9e3363.js",
-  "service-worker.js": "/albums/service-worker.js"
+  "main.js": "/react-blog/static/js/main.0f638c5d.chunk.js",
+  "main.js.map": "/react-blog/static/js/main.0f638c5d.chunk.js.map",
+  "runtime~main.js": "/react-blog/static/js/runtime~main.6ea77c5b.js",
+  "runtime~main.js.map": "/react-blog/static/js/runtime~main.6ea77c5b.js.map",
+  "static/js/2.df8d37e2.chunk.js": "/react-blog/static/js/2.df8d37e2.chunk.js",
+  "static/js/2.df8d37e2.chunk.js.map": "/react-blog/static/js/2.df8d37e2.chunk.js.map",
+  "index.html": "/react-blog/index.html",
+  "precache-manifest.ee96a060278994d3cb2d5707eac1c79e.js": "/react-blog/precache-manifest.ee96a060278994d3cb2d5707eac1c79e.js",
+  "service-worker.js": "/react-blog/service-worker.js"
 }
